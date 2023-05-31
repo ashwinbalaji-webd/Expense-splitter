@@ -1,0 +1,233 @@
+{
+  "Balaji": [
+    {
+      "category": "Kulfi",
+      "amount": 120,
+      "date": "26/05/2023",
+      "place": "Thousand lights , chennai"
+    },
+    {
+      "category": "Fast track recharge",
+      "amount": 500,
+      "date": "26/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "Dinner at Anna nagar",
+      "amount": 650,
+      "date": "26/05/2023",
+      "place": "Anna nagar, Chennai"
+    },
+    {
+      "category": "Petrol i20",
+      "amount": 2000,
+      "date": "27/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "Mixing and chips",
+      "amount": 220,
+      "date": "27/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "On the way atti",
+      "amount": 240,
+      "date": "27/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "Petrol i20",
+      "amount": 3000,
+      "date": "27/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "Car entry fee and parking",
+      "amount": 300,
+      "date": "27/05/2023",
+      "place": "Hoggenakkal"
+    },
+    {
+      "category": "Fish and cleaning",
+      "amount": 690,
+      "date": "27/05/2023",
+      "place": "Hoggenakkal"
+    },
+    {
+      "category": "Cooking fish food for lunch",
+      "amount": 1200,
+      "date": "27/05/2023",
+      "place": "Hoggenakkal"
+    },
+    {
+      "category": "Sugar cane juice",
+      "amount": 90,
+      "date": "27/05/2023",
+      "place": "En route to Salem"
+    },
+    {
+      "category": "Tea time at evening",
+      "amount": 360,
+      "date": "27/05/2023",
+      "place": "Yercaud"
+    },
+    {
+      "category": "Villa rent",
+      "amount": 6500,
+      "date": "27/05/2023",
+      "place": "Yercaud"
+    },
+    {
+      "category": "Entry ticket through flower park",
+      "amount": 80,
+      "date": "28/05/2023",
+      "place": "Yercaud"
+    },
+    {
+      "category": "Tiffin",
+      "amount": 330,
+      "date": "28/05/2023",
+      "place": "En route to reception"
+    },
+    {
+      "category": "Cake",
+      "amount": 390,
+      "date": "28/05/2023",
+      "place": "En route to reception"
+    },
+    {
+      "category": "Lunch at evening",
+      "amount": 1570,
+      "date": "28/05/2023",
+      "place" : "En route to Chennai"
+    }
+  ],
+  "Bothraj": [
+    {
+      "category": "Dinner in Yercaud",
+      "amount": 700,
+      "date": "27/05/2023",
+      "place" : "Yercaud"
+    }
+  ],
+  "Ajith": [
+    {
+      "category": "Petrol",
+      "amount": 2000,
+      "date": "26/05/2023",
+      "place" : "Yercaud"
+    },
+    {
+      "category": "Tea time near toll",
+      "amount": 187,
+      "date": "28/05/2023",
+      "place" : "En route to Chennai"
+    },
+    {
+      "category": "Fast track recharge",
+      "amount": 800,
+      "date": "26/05/2023",
+      "place": "En route to Hoggenakkal"
+    }
+  ],
+  "Sabari": [
+    {
+      "category": "Petrol i10",
+      "amount": 2000,
+      "date": "26/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "Petrol",
+      "amount": 2000,
+      "date": "27/05/2023",
+      "place": "Yercaud"
+    },
+    {
+      "category": "Toll",
+      "amount": 95,
+      "date": "26/05/2023",
+      "place": "En route to Reception"
+    },
+    {
+      "category": "Hoggenakkal entry ticket",
+      "amount": 50,
+      "date": "27/05/2023",
+      "place": "Hoggenakkal"
+    }
+  ],
+  "Logesh": [
+    {
+      "category": "Massage and oil in hoggenakkal",
+      "amount": 3150,
+      "date": "27/05/2023",
+      "place": "Hoggenakkal"
+    },
+    {
+      "category": "Chicken grill",
+      "amount": 800,
+      "date": "26/05/2023",
+      "place": "Yercaud"
+    }
+  ],
+  "Ajeesh": [
+    {
+      "category": "Tea time",
+      "amount": 80,
+      "date": "28/05/2023",
+      "place": "En route to Chennai"
+      
+    }
+  ],
+  "Boobathy": [
+    {
+      "category": "Petrol i20",
+      "amount": 1500,
+      "date": "28/05/2023",
+      "place": "En route to chennai"
+    },
+    {
+      "category": "Dinner",
+      "amount": 1215,
+      "date": "28/05/2023",
+      "place": "En route to chennai"
+    },
+    {
+      "category": "The last atti",
+      "amount": 100,
+      "date": "28/05/2023",
+      "place": "Chennai"
+    },
+    {
+      "category": "Fast track recharge",
+      "amount": 400,
+      "date": "26/05/2023",
+      "place": "En route to Hoggenakkal"
+    },
+    {
+      "category": "Petrol i20",
+      "amount": 1000,
+      "date": "29/05/2023",
+      "place" : "En route to leaving the car"
+    }
+  ],
+  "Ashwin": [
+    {
+      "category": "",
+      "amount": 0
+    }
+  ],
+  "Naveen": [
+    {
+      "category": "",
+      "amount": 0
+    }
+  ],
+  "Sasikumar": [
+    {
+      "category": "",
+      "amount": 0
+    }
+  ]
+}
