@@ -105,8 +105,8 @@ const prepareDOM = (result, expenseData) => {
         row.appendChild(cellId);
         row.appendChild(spenderCell);
         row.appendChild(expenseCategoryCell);
-        row.appendChild(dateCell);
         row.appendChild(placeCell);
+        row.appendChild(dateCell);
         row.appendChild(amountCell);
 
         expenseTable.appendChild(row);
