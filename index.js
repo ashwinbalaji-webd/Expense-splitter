@@ -1,4 +1,4 @@
-console.log("Sanity check!");
+// console.log("Sanity check!");
 
 fetch("expense.json")
   .then((response) => response.json())
@@ -74,7 +74,8 @@ function getExpenseSplit(expenseData) {
 
   prepareDOM(result, expenseData);
 
-  console.log(result);
+  // console.log(result);
+  console.log("Bullet Pandi : Enna pakra! inga onnum illa..👊🏻")
 }
 
 const prepareDOM = (result, expenseData) => {
