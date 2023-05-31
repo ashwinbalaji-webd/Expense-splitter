@@ -81,9 +81,11 @@ const prepareDOM = (result, expenseData) => {
   const expenseTable = document.getElementById("expense-table-id");
   const aggregateExpense = document.getElementById("total-amount");
 
-  Object.entries(expenseData).forEach(([key, value], index) => {
-    // console.log(value)
-    value.forEach((expense , index) => {
+  let counter = -1;
+
+  Object.entries(expenseData).forEach(([key, value]) => {
+    value.forEach((expense) => {
+      counter += 1;
       if (expense.amount !== 0) {
         const row = document.createElement("tr");
         const cellId = document.createElement("td");
@@ -94,7 +96,7 @@ const prepareDOM = (result, expenseData) => {
         const dateCell = document.createElement("td");
 
         spenderCell.innerText = key;
-        cellId.innerText = index + 1;
+        cellId.innerText = counter + 1;
         expenseCategoryCell.innerText = expense.category;
         dateCell.innerText = expense.date;
         placeCell.innerText = expense.place;
