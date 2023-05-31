@@ -113,7 +113,7 @@
   ],
   "Ajith": [
     {
-      "category": "Petrol",
+      "category": "Petrol i10",
       "amount": 2000,
       "date": "26/05/2023",
       "place" : "Yercaud"
@@ -139,7 +139,7 @@
       "place": "En route to Hoggenakkal"
     },
     {
-      "category": "Petrol",
+      "category": "Petrol i10",
       "amount": 2000,
       "date": "27/05/2023",
       "place": "Yercaud"
