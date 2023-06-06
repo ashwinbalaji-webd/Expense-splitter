@@ -4,32 +4,33 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
     <link href="./style.css" rel="stylesheet" />
-    <title>Expense Splitter</title>
+    <title>Expense Split</title>
   </head>
   <body>
-    <main>
-      <!-- <h1>Lorem ipsum dolor sit</h1>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-        incidunt magni doloremque nostrum cupiditate voluptatibus asperiores
-        necessitatibus quod, est aut exercitationem dolore debitis hic eaque
-        deserunt enim et recusandae non.
-      </p>
-      <p>
-        Natus laboriosam explicabo nam minus laudantium, eius ipsum vitae iusto
-        consectetur expedita! Sequi quis omnis ex facere optio. Eos voluptatibus
-        aspernatur repellat nemo dicta labore, necessitatibus numquam veniam
-        quia neque!
-      </p> -->
-      <h3 style="text-align: center">
-        Pradeep reception trip expenses and split details
-      </h3>
+    <div class="cls-loader-wrapper" id="loader">
+      <button>
+        Loading ...
+        <svg>
+          <rect x="1" y="1"></rect>
+        </svg>
+      </button>
+    </div>
+    <main class="cls-hide-display" id="main">
+      <h5 style="text-align: center">
+        <span>Pradeep reception trip expenses</span
+        ><i class="bi bi-wallet2"></i>
+      </h5>
       <figure class="wrapper">
         <table>
-          <caption class="visually-hidden">
-            Yercaud trip expenses and split details
-          </caption>
           <thead>
             <tr>
               <th scope="col">S.no.</th>
@@ -47,28 +48,39 @@
                 Total amount spent
               </th>
               <th scope="col" id="total-amount"></th>
-              <!-- <td scope="col" colspan="3"></td> -->
             </tr>
           </tfoot>
         </table>
       </figure>
-      <div>
-        <img style="margin: 0 auto ; display:block; width:70vw; max-width:600px;" src="./bullet_pandi.gif" />
+
+      <h5 style="text-align: center">
+        <span>Split details</span><i class="bi bi-people"></i>
+      </h5>
+      <div class="cls-split-details">
+        <div id="accordion"></div>
       </div>
-      <h4 style="text-align: center; ">Hack me if you can!</h4>
-      <!-- <p>
-        Cumque, perferendis ex. Earum saepe sit cupiditate nam in, soluta totam
-        consectetur dolores, asperiores officia ipsam cum temporibus culpa
-        sequi, commodi neque fugiat corrupti officiis porro assumenda omnis
-        quaerat? Quibusdam?
-      </p>
-      <p>
-        Minima, voluptates consequatur ut officiis ab voluptatum amet doloremque
-        enim laboriosam maiores. Officia doloremque nostrum voluptate minus
-        praesentium debitis recusandae obcaecati vitae. Facere odit beatae odio
-        dignissimos quasi, sint labore.
-      </p> -->
+      <!-- <div>
+        <img
+          style="margin: 0 auto; display: block; width: 70vw; max-width: 600px"
+          src="./bullet_pandi.gif"
+        />
+      </div>
+      <h6 style="text-align: center; margin-block-start: 20px; font-size: 12px">
+        <b>Hack me if you can!</b>
+      </h6> -->
+      <footer>
+        <div class="cls-footer">
+          <span>
+            Kindly deliver or receive the funds from the appropriate individual.
+          </span>
+          <span style="font-size: 12px">
+            For any questions, contact us in the <strong>Yercaudu Boys</strong> whatsapp group.
+          </span>
+        </div>
+      </footer>
     </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="./index.js"></script>
   </body>
 </html>

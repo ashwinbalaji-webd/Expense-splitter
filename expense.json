@@ -1,16 +1,44 @@
 {
+  "Ajeesh": [
+    {
+      "category": "Tea time",
+      "amount": 80,
+      "date": "28/05/2023",
+      "place": "En route to Chennai"
+    }
+  ],
+  "Ajith": [
+    {
+      "category": "Petrol i10",
+      "amount": 2000,
+      "date": "26/05/2023",
+      "place": "Yercaud"
+    },
+    {
+      "category": "Tea time near toll",
+      "amount": 187,
+      "date": "28/05/2023",
+      "place": "En route to Chennai"
+    },
+    {
+      "category": "Fast track recharge",
+      "amount": 800,
+      "date": "26/05/2023",
+      "place": "En route to Hogenakkal"
+    }
+  ],
+  "Ashwin": [
+    {
+      "category": "",
+      "amount": 0
+    }
+  ],
   "Balaji": [
     {
       "category": "Kulfi",
       "amount": 120,
       "date": "26/05/2023",
       "place": "Thousand lights , chennai"
-    },
-    {
-      "category": "Fast track recharge",
-      "amount": 500,
-      "date": "26/05/2023",
-      "place": "En route to Hogenakkal"
     },
     {
       "category": "Dinner at Anna nagar",
@@ -33,12 +61,6 @@
     {
       "category": "On the way atti",
       "amount": 240,
-      "date": "27/05/2023",
-      "place": "En route to Hogenakkal"
-    },
-    {
-      "category": "Petrol i20",
-      "amount": 3000,
       "date": "27/05/2023",
       "place": "En route to Hogenakkal"
     },
@@ -73,12 +95,6 @@
       "place": "Yercaud"
     },
     {
-      "category": "Villa rent",
-      "amount": 6500,
-      "date": "27/05/2023",
-      "place": "Yercaud"
-    },
-    {
       "category": "Entry ticket through flower park",
       "amount": 80,
       "date": "28/05/2023",
@@ -100,7 +116,39 @@
       "category": "Lunch at evening",
       "amount": 1570,
       "date": "28/05/2023",
-      "place" : "En route to Chennai"
+      "place": "En route to Chennai"
+    }
+  ],
+  "Boopathy": [
+    {
+      "category": "Petrol i20",
+      "amount": 1000,
+      "date": "28/05/2023",
+      "place": "En route to chennai"
+    },
+    {
+      "category": "Dinner",
+      "amount": 1215,
+      "date": "28/05/2023",
+      "place": "En route to chennai"
+    },
+    {
+      "category": "The last atti",
+      "amount": 100,
+      "date": "28/05/2023",
+      "place": "Chennai"
+    },
+    {
+      "category": "Fast track recharge",
+      "amount": 400,
+      "date": "26/05/2023",
+      "place": "En route to Hogenakkal"
+    },
+    {
+      "category": "Petrol i20",
+      "amount": 1000,
+      "date": "29/05/2023",
+      "place": "En route to leaving the car"
     }
   ],
   "Bothraj": [
@@ -108,27 +156,27 @@
       "category": "Dinner in Yercaud",
       "amount": 700,
       "date": "27/05/2023",
-      "place" : "Yercaud"
+      "place": "Yercaud"
     }
   ],
-  "Ajith": [
+  "Logesh": [
     {
-      "category": "Petrol i10",
-      "amount": 2000,
-      "date": "26/05/2023",
-      "place" : "Yercaud"
+      "category": "Massage and oil",
+      "amount": 3150,
+      "date": "27/05/2023",
+      "place": "Hogenakkal"
     },
     {
-      "category": "Tea time near toll",
-      "amount": 187,
-      "date": "28/05/2023",
-      "place" : "En route to Chennai"
-    },
-    {
-      "category": "Fast track recharge",
+      "category": "Chicken grill",
       "amount": 800,
       "date": "26/05/2023",
-      "place": "En route to Hogenakkal"
+      "place": "Yercaud"
+    }
+  ],
+  "Naveen": [
+    {
+      "category": "",
+      "amount": 0
     }
   ],
   "Sabari": [
@@ -155,79 +203,20 @@
       "amount": 50,
       "date": "27/05/2023",
       "place": "Hogenakkal"
-    }
-  ],
-  "Logesh": [
+    },
     {
-      "category": "Massage and oil",
-      "amount": 3150,
+      "category": "Chips",
+      "amount": 120,
       "date": "27/05/2023",
-      "place": "Hogenakkal"
-    },
-    {
-      "category": "Chicken grill",
-      "amount": 800,
-      "date": "26/05/2023",
       "place": "Yercaud"
-    }
-  ],
-  "Ajeesh": [
-    {
-      "category": "Tea time",
-      "amount": 80,
-      "date": "28/05/2023",
-      "place": "En route to Chennai"
-      
-    }
-  ],
-  "Boobathy": [
-    {
-      "category": "Petrol i20",
-      "amount": 1500,
-      "date": "28/05/2023",
-      "place": "En route to chennai"
-    },
-    {
-      "category": "Dinner",
-      "amount": 1215,
-      "date": "28/05/2023",
-      "place": "En route to chennai"
-    },
-    {
-      "category": "The last atti",
-      "amount": 100,
-      "date": "28/05/2023",
-      "place": "Chennai"
-    },
-    {
-      "category": "Fast track recharge",
-      "amount": 400,
-      "date": "26/05/2023",
-      "place": "En route to Hogenakkal"
-    },
-    {
-      "category": "Petrol i20",
-      "amount": 1000,
-      "date": "29/05/2023",
-      "place" : "En route to leaving the car"
-    }
-  ],
-  "Ashwin": [
-    {
-      "category": "",
-      "amount": 0
-    }
-  ],
-  "Naveen": [
-    {
-      "category": "",
-      "amount": 0
     }
   ],
   "Sasikumar": [
     {
-      "category": "",
-      "amount": 0
+      "category": "Tea time",
+      "amount": 170,
+      "date": "26/05/2023",
+      "place": "En route to Hogenakkal"
     }
   ]
 }

@@ -1,0 +1,403 @@
+{
+    "Balaji": {
+        "spent": {
+            "Balaji": 0,
+            "Bothraj": 1824,
+            "Ajith": 1824,
+            "Sabari": 1824,
+            "Logesh": 1824,
+            "Ajeesh": 1824,
+            "Boopathy": 1824,
+            "Ashwin": 1824,
+            "Naveen": 1824,
+            "Sasikumar": 1824
+        },
+        "owe": {
+            "Balaji": 0,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": 0,
+            "Bothraj": 1754,
+            "Ajith": 1525,
+            "Sabari": 1409,
+            "Logesh": 1429,
+            "Ajeesh": 1816,
+            "Boopathy": 1452,
+            "Ashwin": 1824,
+            "Naveen": 1824,
+            "Sasikumar": 1824
+        },
+        "totalExpense": 18240,
+        "ultimateDebt": 14857
+    },
+    "Bothraj": {
+        "spent": {
+            "Balaji": 70,
+            "Bothraj": 0,
+            "Ajith": 70,
+            "Sabari": 70,
+            "Logesh": 70,
+            "Ajeesh": 70,
+            "Boopathy": 70,
+            "Ashwin": 70,
+            "Naveen": 70,
+            "Sasikumar": 70
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": 0,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1754,
+            "Bothraj": 0,
+            "Ajith": -229,
+            "Sabari": -345,
+            "Logesh": -325,
+            "Ajeesh": 62,
+            "Boopathy": -302,
+            "Ashwin": 70,
+            "Naveen": 70,
+            "Sasikumar": 70
+        },
+        "totalExpense": 700,
+        "ultimateDebt": -2683
+    },
+    "Ajith": {
+        "spent": {
+            "Balaji": 299,
+            "Bothraj": 299,
+            "Ajith": 0,
+            "Sabari": 299,
+            "Logesh": 299,
+            "Ajeesh": 299,
+            "Boopathy": 299,
+            "Ashwin": 299,
+            "Naveen": 299,
+            "Sasikumar": 299
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": 0,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1525,
+            "Bothraj": 229,
+            "Ajith": 0,
+            "Sabari": -116,
+            "Logesh": -96,
+            "Ajeesh": 291,
+            "Boopathy": -73,
+            "Ashwin": 299,
+            "Naveen": 299,
+            "Sasikumar": 299
+        },
+        "totalExpense": 2987,
+        "ultimateDebt": -393
+    },
+    "Sabari": {
+        "spent": {
+            "Balaji": 415,
+            "Bothraj": 415,
+            "Ajith": 415,
+            "Sabari": 0,
+            "Logesh": 415,
+            "Ajeesh": 415,
+            "Boopathy": 415,
+            "Ashwin": 415,
+            "Naveen": 415,
+            "Sasikumar": 415
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": 0,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1409,
+            "Bothraj": 345,
+            "Ajith": 116,
+            "Sabari": 0,
+            "Logesh": 20,
+            "Ajeesh": 407,
+            "Boopathy": 43,
+            "Ashwin": 415,
+            "Naveen": 415,
+            "Sasikumar": 415
+        },
+        "totalExpense": 4145,
+        "ultimateDebt": 767
+    },
+    "Logesh": {
+        "spent": {
+            "Balaji": 395,
+            "Bothraj": 395,
+            "Ajith": 395,
+            "Sabari": 395,
+            "Logesh": 0,
+            "Ajeesh": 395,
+            "Boopathy": 395,
+            "Ashwin": 395,
+            "Naveen": 395,
+            "Sasikumar": 395
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": 0,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1429,
+            "Bothraj": 325,
+            "Ajith": 96,
+            "Sabari": -20,
+            "Logesh": 0,
+            "Ajeesh": 387,
+            "Boopathy": 23,
+            "Ashwin": 395,
+            "Naveen": 395,
+            "Sasikumar": 395
+        },
+        "totalExpense": 3950,
+        "ultimateDebt": 567
+    },
+    "Ajeesh": {
+        "spent": {
+            "Balaji": 8,
+            "Bothraj": 8,
+            "Ajith": 8,
+            "Sabari": 8,
+            "Logesh": 8,
+            "Ajeesh": 0,
+            "Boopathy": 8,
+            "Ashwin": 8,
+            "Naveen": 8,
+            "Sasikumar": 8
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": 0,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1816,
+            "Bothraj": -62,
+            "Ajith": -291,
+            "Sabari": -407,
+            "Logesh": -387,
+            "Ajeesh": 0,
+            "Boopathy": -364,
+            "Ashwin": 8,
+            "Naveen": 8,
+            "Sasikumar": 8
+        },
+        "totalExpense": 80,
+        "ultimateDebt": -3303
+    },
+    "Boopathy": {
+        "spent": {
+            "Balaji": 372,
+            "Bothraj": 372,
+            "Ajith": 372,
+            "Sabari": 372,
+            "Logesh": 372,
+            "Ajeesh": 372,
+            "Boopathy": 0,
+            "Ashwin": 372,
+            "Naveen": 372,
+            "Sasikumar": 372
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": 0,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1452,
+            "Bothraj": 302,
+            "Ajith": 73,
+            "Sabari": -43,
+            "Logesh": -23,
+            "Ajeesh": 364,
+            "Boopathy": 0,
+            "Ashwin": 372,
+            "Naveen": 372,
+            "Sasikumar": 372
+        },
+        "totalExpense": 3715,
+        "ultimateDebt": 337
+    },
+    "Ashwin": {
+        "spent": {
+            "Balaji": 0,
+            "Bothraj": 0,
+            "Ajith": 0,
+            "Sabari": 0,
+            "Logesh": 0,
+            "Ajeesh": 0,
+            "Boopathy": 0,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "totalExpense": 0,
+        "ultimateDebt": -3383
+    },
+    "Naveen": {
+        "spent": {
+            "Balaji": 0,
+            "Bothraj": 0,
+            "Ajith": 0,
+            "Sabari": 0,
+            "Logesh": 0,
+            "Ajeesh": 0,
+            "Boopathy": 0,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "totalExpense": 0,
+        "ultimateDebt": -3383
+    },
+    "Sasikumar": {
+        "spent": {
+            "Balaji": 0,
+            "Bothraj": 0,
+            "Ajith": 0,
+            "Sabari": 0,
+            "Logesh": 0,
+            "Ajeesh": 0,
+            "Boopathy": 0,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "owe": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "balance": {
+            "Balaji": -1824,
+            "Bothraj": -70,
+            "Ajith": -299,
+            "Sabari": -415,
+            "Logesh": -395,
+            "Ajeesh": -8,
+            "Boopathy": -372,
+            "Ashwin": 0,
+            "Naveen": 0,
+            "Sasikumar": 0
+        },
+        "totalExpense": 0,
+        "ultimateDebt": -3383
+    },
+    "AggregateExpense": 33817
+}
